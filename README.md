@@ -12,26 +12,39 @@ This repository serves as a central hub for my academic journey at the **UJEP (J
 
 ## Academic Background
 - **Field of Study:** Applied Informatics.
-- **Focus Areas:** Data Engineering, Machine Learning and Industrial Automation.
-- **Certifications:** Cisco Certified Network Associate (CCNA).
+- **Focus Areas:** Database Systems, Data Processing, Data Science/Analysis, Programming, Software Engineering
+- **Additional area:** Operating Systems 
+- **Certifications:** AI Ethics, Elements of AI.
   
 ## Key University Projects
 ### Data Science & Research
-- **[PS_Project](https://github.com/imang212/PS_Project)** – Comprehensive research on NASA Exoplanets, combining DuckDB, Parquet, and formal LaTeX documentation.
+- **[Mathematical_Software](https://github.com/imang212/Mathematical_Software)** – Numerical Python modules tasks implemented in Jupyter Notebook.
+- **[Computer_Signal_Processing](https://github.com/imang212/Computer_Signal_Processing)** – EKG signal and sound signal records processing and analysis in Python.
+- **[Planets_database](https://github.com/imang212/Planets_Database)** – Space Object database system in PostgreSGL with Relational Modeling, Advanced SQL commands, Database Programming and ORM Integration in SQLAlchemy.
+- **[NASA_exoplanets_OLAP](https://github.com/imang212/NASA_exoplanets_OLAP)** – Data lakehouse and star schema implementation for astronomical data. Comprehensive research on NASA Exoplanets, combining DuckDB, Parquet, and formal LaTeX documentation.
+- **[Numerical_Methods](https://github.com/imang212/Numerical_Methods)** – Numerical methods implemented in R. 
+- **[TS_Covid_Data](https://github.com/imang212/TS_Covid_Data)** – Time series analysis on covid new cases in R.
+- **[Advanced_Statistical_Methods](https://github.com/imang212/Advanced_Statistical_Methods)** – Advaced statistical methods analysis and multivariate statistics analysis tasks implementation in R.
 - **[ML_Satellite_Image_Classification](https://github.com/imang212/ML_Satellite_Image_Classification)** – Deep learning model (ResNet50) for Amazon rainforest imagery using PyTorch.
-- **[NASA_exoplanets_OLAP](https://github.com/imang212/NASA_exoplanets_OLAP)** – Data lakehouse and star schema implementation for astronomical data.
 
 ### Web & Software Engineering
 - **[ExoWorlds_Web_App](https://github.com/imang212/ExoWorlds_Web_App)** – Full-stack PHP/AJAX management tool with XML/XSD validation and Docker orchestration.
-- **[Open_Data_Web_Api](https://github.com/imang212/Open_Data_Web_Api)** – Flood monitoring dashboard for the Ústí Region using FastAPI and Streamlit.
+- **[FloodSensors_OpenData_API](https://github.com/imang212/FloodSensors_OpenData_API)** – FloodSensors data monitoring dashboard for the Ústí Region using FastAPI and Streamlit.
+- **[Dating_App](https://github.com/imang212/Dating_Site)** – Dating Site App created in Python Flask with Neo4j DB.
+- **[Pokemon_App](https://github.com/imang212/Pokemon_App)** – Pokedex Explorer team project created in C#, Visual Studio .Net as WPF application
+- **[Trading_App](https://github.com/imang212/Trading_App)** – Native Android application (Java) created in Android Studio utilizing Bayesian scoring for market analysis on Androind 11+.
 
+## Project
+- **[Apple_Sorter](https://github.com/imang212/Apple_Sorter)** – Working on real-time Object Analysis, Classification, and Sorting System using computer vision and AI accelerator on rpi device with HW sorting.
+  
 ## Bachelor's Thesis
-**Title:** *Systém pro analýzu dopravy pomocí počítačového vidění* (System for Traffic Analysis Using Computer Vision).
-- **Description:** Real-time traffic monitoring system utilizing Raspberry Pi 5 and the Hailo-8 AI accelerator.
-- **Technologies:** Python, Hailo-8 DFC, OpenCV.
+- **[Bachelor_Thesis](https://github.com/imang212/Bachelor_Thesis)**
+**Title:** System for Traffic Analysis Using Computer Vision
+- **Description:** Working on real-time traffic monitoring system utilizing Raspberry Pi 5 and the Hailo-8 AI accelerator. 
+- **Technologies:** Python, GStreamer, MQTT, PostgreSQL, FastAPI, Streamlit
 
 ## Professional Experience
-- **Internship:** Data Center of the Ústí Region (Datové Centrum Ústeckého Kraje) – Oct 2025 to Mar 2026.
+- **Internship:** Data Center of the Ústí Region – Oct 2025 to Mar 2026.
 - **Focus:** Data processing and technical infrastructure.
 
 ## License
