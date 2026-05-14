@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Education-Applied%20Informatics-blue?style=flat&logo=googlescholar" />
   <img src="https://img.shields.io/badge/Degree-Bachelor%20(Final%20Year)-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Completed%20Internship-green?style=flat" />
+</p>
+
+This repository serves as a central hub for my academic journey at the **UJEP (Jan Evangelista Purkyně University)**. It contains links to semester projects, research papers, and technical implementations developed during my Bachelor's degree in Applied Informatics.
 </p>
 
 # Academic Portfolio & University Projects
@@ -10,7 +14,7 @@ This repository serves as a central hub for my academic journey at the **UJEP (J
 - **Field of Study:** Applied Informatics.
 - **Focus Areas:** Data Engineering, Machine Learning, Trading Systems, and Industrial Automation.
 - **Certifications:** Cisco Certified Network Associate (CCNA).
-- 
+  
 ## Key University Projects
 ### Data Science & Research
 - **[PS_Project](https://github.com/imang212/PS_Project)** – Comprehensive research on NASA Exoplanets, combining DuckDB, Parquet, and formal LaTeX documentation.
@@ -19,7 +23,6 @@ This repository serves as a central hub for my academic journey at the **UJEP (J
 
 ### Web & Software Engineering
 - **[ExoWorlds_Web_App](https://github.com/imang212/ExoWorlds_Web_App)** – Full-stack PHP/AJAX management tool with XML/XSD validation and Docker orchestration.
-- **[Trading_App](https://github.com/imang212/Trading_App)** – Native Android application (Java) utilizing Bayesian scoring for market analysis.
 - **[Open_Data_Web_Api](https://github.com/imang212/Open_Data_Web_Api)** – Flood monitoring dashboard for the Ústí Region using FastAPI and Streamlit.
 
 ## Bachelor's Thesis
