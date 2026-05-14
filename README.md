@@ -12,7 +12,7 @@ This repository serves as a central hub for my academic journey at the **UJEP (J
 
 ## Academic Background
 - **Field of Study:** Applied Informatics.
-- **Focus Areas:** Data Engineering, Machine Learning, Trading Systems, and Industrial Automation.
+- **Focus Areas:** Data Engineering, Machine Learning and Industrial Automation.
 - **Certifications:** Cisco Certified Network Associate (CCNA).
   
 ## Key University Projects
