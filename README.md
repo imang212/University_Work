@@ -45,7 +45,7 @@ This repository serves as a central hub for my academic journey at the **UJEP (J
 
 ## Professional Experience
 - **Internship:** Data Center of the Ústí Region – Oct 2025 to Mar 2026.
-- **Focus:** Data processing and technical infrastructure.
+- **Focus:** Data processing, analysis and technical infrastructure.
 
 ## License
 Content in this hub repository is licensed under the **MIT License** unless otherwise specified in the linked sub-repositories.
