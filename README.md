@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Education-Applied%20Informatics-blue?style=flat&logo=googlescholar" />
   <img src="https://img.shields.io/badge/Degree-Bachelor%20(Final%20Year)-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Location-Usti%20nad%20Labem-red?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Completed%20Internship-green?style=flat" />
 </p>
 
 # Academic Portfolio & University Projects
