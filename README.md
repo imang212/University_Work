@@ -47,6 +47,13 @@ This repository serves as a central hub for my academic journey at the **UJEP (J
 - **Internship:** Data Center of the Ústí Region – Oct 2025 to Mar 2026.
 - **Focus:** Data processing, analysis and technical infrastructure.
 
+## Additional high school projects
+- **[Patasy](https://github.com/imang212/Patasy)** – 2D RPG game created at unity and programmed in C#.
+- **[Workshop_Company_Website](https://github.com/imang212/Workshop_Company_Website)** – My first family company website developed mainly in PHP. 
+
+## Personal & Additional Projects
+- **[Trading_Algorithm](https://github.com/imang212/Trading_Algorithm)** – Backest trading script with dashboard, backtest, signal analyse using indicators with Bayesian evaluation to predict score of assets convenience to buy.
+
 ## License
 Content in this hub repository is licensed under the **MIT License** unless otherwise specified in the linked sub-repositories.
 
