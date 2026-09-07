@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\bin\Debug\net6.0\template_method.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\bin\Debug\net6.0\template_method.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\bin\Debug\net6.0\template_method.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\bin\Debug\net6.0\template_method.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\bin\Debug\net6.0\template_method.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\template_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\template_method.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\template_method.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\template_method.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\template_method.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\refint\template_method.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\template_method.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\template_method.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\template_method\obj\Debug\net6.0\ref\template_method.dll

@@ -1,0 +1,5 @@
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\obj\Debug\net6.0\OONV.csproj.AssemblyReference.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\obj\Debug\net6.0\OONV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\obj\Debug\net6.0\OONV.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\obj\Debug\net6.0\OONV.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\obj\Debug\net6.0\OONV.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.csproj.AssemblyReference.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\bin\Debug\net6.0\bridge.exe
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\bin\Debug\net6.0\bridge.deps.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\bin\Debug\net6.0\bridge.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\bin\Debug\net6.0\bridge.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\bin\Debug\net6.0\bridge.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\refint\bridge.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\bridge.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\bridge\obj\Debug\net6.0\ref\bridge.dll

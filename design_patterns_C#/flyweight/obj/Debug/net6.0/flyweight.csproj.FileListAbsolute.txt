@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\OONV_patterns\flyweight\bin\Debug\net6.0\flyweight.exe
+C:\Users\patri\Desktop\OONV_patterns\flyweight\bin\Debug\net6.0\flyweight.deps.json
+C:\Users\patri\Desktop\OONV_patterns\flyweight\bin\Debug\net6.0\flyweight.runtimeconfig.json
+C:\Users\patri\Desktop\OONV_patterns\flyweight\bin\Debug\net6.0\flyweight.dll
+C:\Users\patri\Desktop\OONV_patterns\flyweight\bin\Debug\net6.0\flyweight.pdb
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.AssemblyInfo.cs
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.dll
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\refint\flyweight.dll
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.pdb
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.genruntimeconfig.cache
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\ref\flyweight.dll
+C:\Users\patri\Desktop\OONV_patterns\flyweight\obj\Debug\net6.0\flyweight.csproj.AssemblyReference.cache

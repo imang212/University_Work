@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\facade.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\facade.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\bin\Debug\net6.0\facade.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\bin\Debug\net6.0\facade.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\bin\Debug\net6.0\facade.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\bin\Debug\net6.0\facade.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\bin\Debug\net6.0\facade.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\facade.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\refint\facade.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\facade.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\facade.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\facade\obj\Debug\net6.0\ref\facade.dll

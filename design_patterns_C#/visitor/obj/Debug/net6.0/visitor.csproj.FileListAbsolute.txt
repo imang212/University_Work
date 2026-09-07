@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\visitor.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\visitor.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\visitor.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\bin\Debug\net6.0\visitor.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\bin\Debug\net6.0\visitor.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\bin\Debug\net6.0\visitor.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\bin\Debug\net6.0\visitor.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\bin\Debug\net6.0\visitor.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\visitor.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\refint\visitor.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\visitor.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\visitor.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\visitor\obj\Debug\net6.0\ref\visitor.dll

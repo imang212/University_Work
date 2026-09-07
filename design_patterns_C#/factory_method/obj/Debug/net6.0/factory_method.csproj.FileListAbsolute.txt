@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\factory_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\factory_method.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\factory_method.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\factory_method.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\bin\Debug\net6.0\factory_method.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\bin\Debug\net6.0\factory_method.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\bin\Debug\net6.0\factory_method.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\bin\Debug\net6.0\factory_method.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\bin\Debug\net6.0\factory_method.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\factory_method.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\refint\factory_method.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\factory_method.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\factory_method.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\factory_method\obj\Debug\net6.0\ref\factory_method.dll

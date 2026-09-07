@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\memento.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\memento.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\memento.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\bin\Debug\net8.0\memento.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\bin\Debug\net8.0\memento.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\bin\Debug\net8.0\memento.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\bin\Debug\net8.0\memento.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\bin\Debug\net8.0\memento.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\memento.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\refint\memento.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\memento.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\memento.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\memento\obj\Debug\net8.0\ref\memento.dll

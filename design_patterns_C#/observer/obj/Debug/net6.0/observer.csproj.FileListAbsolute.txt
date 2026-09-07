@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\bin\Debug\net6.0\observer.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\bin\Debug\net6.0\observer.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\bin\Debug\net6.0\observer.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\bin\Debug\net6.0\observer.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\bin\Debug\net6.0\observer.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\observer.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\observer.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\observer.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\observer.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\refint\observer.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\observer.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\observer.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\observer\obj\Debug\net6.0\ref\observer.dll

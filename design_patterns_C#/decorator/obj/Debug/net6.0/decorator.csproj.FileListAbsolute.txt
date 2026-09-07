@@ -1,0 +1,15 @@
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.csproj.AssemblyReference.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\bin\Debug\net6.0\decorator.exe
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\bin\Debug\net6.0\decorator.deps.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\bin\Debug\net6.0\decorator.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\bin\Debug\net6.0\decorator.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\bin\Debug\net6.0\decorator.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\refint\decorator.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\decorator.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\OONV\decorator\obj\Debug\net6.0\ref\decorator.dll

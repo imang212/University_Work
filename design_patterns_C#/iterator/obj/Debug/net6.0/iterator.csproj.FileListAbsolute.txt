@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\iterator.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\iterator.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\iterator.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\bin\Debug\net6.0\iterator.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\bin\Debug\net6.0\iterator.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\bin\Debug\net6.0\iterator.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\bin\Debug\net6.0\iterator.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\bin\Debug\net6.0\iterator.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\iterator.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\refint\iterator.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\iterator.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\iterator.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\iterator\obj\Debug\net6.0\ref\iterator.dll

@@ -1,0 +1,25 @@
+funkcionální: objekt je funkce(funkcionální jazyky). Pythonm, Javascript, Haskell, F#, Scheme
+[uzávěry,   lambda]
+    = ukazatel na funkci
+    = delegát [ukazatel na funkci + this]
+
+objektové řešení:
+    = rozhraní Runable (metoda run)
+      ekvivalentní uzávěru, anonymní implementace tříd rozhraní (ad hoc třídy) = lambda výraz
+
+dynamické propojení:
+    = Qt signály (ale to už je observer), funkce zadána jménem (string)
+    command = Command(object,"method"); command.run()
+    dnes c++ funkcionální řešení
+
+observer:
+    objekt nabízející možnost aktivace odložených služeb (aktivátor)
+    odběratelé. kteří se registrují u aktivátora, a slibují, že poskytnou funkčnost
+        aktivátor ji podle potřeby aktivuje u odběratelů
+
+Poskytovatel
+Aktivátor
+Zprostředkovatel, zná poskytovatele(business logic) a zná aktivátora(GUI)
+zprostředkovatel umožní poskytovateli registrovat se u aktivátoru (aktivátor si uloží command) v tu chvíli role zprostředkovatele končí
+
+nastane situace, kdy lze využít poskytovatele aktivátor aktivuje command (a tím poskytovatel provede nějakou)

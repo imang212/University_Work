@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\command.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\command.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\command.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\bin\Debug\net6.0\command.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\bin\Debug\net6.0\command.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\bin\Debug\net6.0\command.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\bin\Debug\net6.0\command.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\bin\Debug\net6.0\command.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\command.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\refint\command.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\command.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\command.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\command\obj\Debug\net6.0\ref\command.dll

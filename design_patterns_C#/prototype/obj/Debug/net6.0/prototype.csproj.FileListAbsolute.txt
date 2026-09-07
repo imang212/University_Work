@@ -1,0 +1,15 @@
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.csproj.AssemblyReference.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\bin\Debug\net6.0\prototype.exe
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\bin\Debug\net6.0\prototype.deps.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\bin\Debug\net6.0\prototype.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\bin\Debug\net6.0\prototype.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\bin\Debug\net6.0\prototype.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\refint\prototype.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\prototype.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\prototype\obj\Debug\net6.0\ref\prototype.dll

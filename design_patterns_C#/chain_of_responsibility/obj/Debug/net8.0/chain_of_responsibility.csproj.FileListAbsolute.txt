@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\bin\Debug\net8.0\chain_of_responsibility.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\refint\chain_of_responsibility.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\chain_of_responsibility.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\chain_of_responsibility\obj\Debug\net8.0\ref\chain_of_responsibility.dll

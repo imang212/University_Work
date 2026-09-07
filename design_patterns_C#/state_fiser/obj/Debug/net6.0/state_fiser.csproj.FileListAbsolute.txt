@@ -1,0 +1,4 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\state_fiser\obj\Debug\net6.0\state_fiser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\state_fiser\obj\Debug\net6.0\state_fiser.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\state_fiser\obj\Debug\net6.0\state_fiser.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\state_fiser\obj\Debug\net6.0\state_fiser.csproj.CoreCompileInputs.cache

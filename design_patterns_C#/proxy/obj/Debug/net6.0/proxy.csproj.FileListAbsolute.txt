@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\proxy.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\proxy.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\proxy.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\bin\Debug\net6.0\proxy.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\bin\Debug\net6.0\proxy.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\bin\Debug\net6.0\proxy.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\bin\Debug\net6.0\proxy.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\bin\Debug\net6.0\proxy.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\proxy.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\refint\proxy.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\proxy.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\proxy.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\proxy\obj\Debug\net6.0\ref\proxy.dll

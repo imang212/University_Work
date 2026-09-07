@@ -1,0 +1,15 @@
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\bin\Debug\net6.0\abstract_factory.exe
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\bin\Debug\net6.0\abstract_factory.deps.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\bin\Debug\net6.0\abstract_factory.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\bin\Debug\net6.0\abstract_factory.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\bin\Debug\net6.0\abstract_factory.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.csproj.AssemblyReference.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\refint\abstract_factory.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\abstract_factory.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\abstract_factory\obj\Debug\net6.0\ref\abstract_factory.dll

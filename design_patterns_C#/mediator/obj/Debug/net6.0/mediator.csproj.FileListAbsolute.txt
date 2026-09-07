@@ -1,0 +1,14 @@
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\bin\Debug\net6.0\mediator.exe
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\bin\Debug\net6.0\mediator.deps.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\bin\Debug\net6.0\mediator.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\bin\Debug\net6.0\mediator.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\bin\Debug\net6.0\mediator.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\mediator.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\mediator.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\mediator.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\mediator.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\refint\mediator.dll
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\mediator.pdb
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\mediator.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\OONV\mediator\obj\Debug\net6.0\ref\mediator.dll
