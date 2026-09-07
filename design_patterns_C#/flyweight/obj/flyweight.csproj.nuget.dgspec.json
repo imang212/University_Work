@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\flyweight\\flyweight.csproj": {}
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\flyweight\\flyweight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\flyweight\\flyweight.csproj": {
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\flyweight\\flyweight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\flyweight\\flyweight.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\flyweight\\flyweight.csproj",
         "projectName": "flyweight",
-        "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\flyweight\\flyweight.csproj",
+        "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\flyweight\\flyweight.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\flyweight\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\flyweight\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

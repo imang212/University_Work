@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\iterator\\iterator.csproj": {}
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\iterator\\iterator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\iterator\\iterator.csproj": {
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\iterator\\iterator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\iterator\\iterator.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\iterator\\iterator.csproj",
         "projectName": "iterator",
-        "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\iterator\\iterator.csproj",
+        "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\iterator\\iterator.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\iterator\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\iterator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\abstract_factory\\abstract_factory.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\abstract_factory\\abstract_factory.csproj",
       "projectName": "abstract_factory",
-      "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\abstract_factory\\abstract_factory.csproj",
+      "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\abstract_factory\\abstract_factory.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\abstract_factory\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\abstract_factory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

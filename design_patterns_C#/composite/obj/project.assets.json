@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\composite\\composite.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\composite\\composite.csproj",
       "projectName": "composite",
-      "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\composite\\composite.csproj",
+      "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\composite\\composite.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\composite\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\composite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

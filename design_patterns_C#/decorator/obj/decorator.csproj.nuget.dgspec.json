@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\decorator\\decorator.csproj": {}
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\decorator\\decorator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\decorator\\decorator.csproj": {
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\decorator\\decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\decorator\\decorator.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\decorator\\decorator.csproj",
         "projectName": "decorator",
-        "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\decorator\\decorator.csproj",
+        "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\decorator\\decorator.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\decorator\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\decorator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\fiser3\\fiser3.csproj": {}
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\fiser3\\fiser3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\fiser3\\fiser3.csproj": {
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\fiser3\\fiser3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\fiser3\\fiser3.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\fiser3\\fiser3.csproj",
         "projectName": "fiser3",
-        "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\fiser3\\fiser3.csproj",
+        "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\fiser3\\fiser3.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\fiser3\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\fiser3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

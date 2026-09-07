@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\adapter\\adapter.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\adapter\\adapter.csproj",
       "projectName": "adapter",
-      "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\adapter\\adapter.csproj",
+      "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\adapter\\adapter.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\adapter\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\adapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

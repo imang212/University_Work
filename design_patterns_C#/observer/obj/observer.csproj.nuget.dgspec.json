@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\observer\\observer.csproj": {}
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\observer\\observer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Desktop\\OONV_patterns\\observer\\observer.csproj": {
+    "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\observer\\observer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\observer\\observer.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\observer\\observer.csproj",
         "projectName": "observer",
-        "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\observer\\observer.csproj",
+        "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\observer\\observer.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\observer\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\observer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

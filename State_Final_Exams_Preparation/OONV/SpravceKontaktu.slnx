@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Spravce_kontaktu.Tests/Spravce_kontaktu.Tests.csproj" />
+  <Project Path="Spravce_kontaktu/Spravce_kontaktu.csproj" />
+</Solution>

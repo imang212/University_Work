@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\builder\\cviko2.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\builder\\cviko2.csproj",
       "projectName": "cviko2",
-      "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\builder\\cviko2.csproj",
+      "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\builder\\cviko2.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\builder\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

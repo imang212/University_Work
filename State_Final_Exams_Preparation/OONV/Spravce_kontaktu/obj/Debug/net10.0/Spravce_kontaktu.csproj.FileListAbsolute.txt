@@ -1,0 +1,14 @@
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\bin\Debug\net10.0\Spravce_kontaktu.exe
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\bin\Debug\net10.0\Spravce_kontaktu.deps.json
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\bin\Debug\net10.0\Spravce_kontaktu.runtimeconfig.json
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\bin\Debug\net10.0\Spravce_kontaktu.dll
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\bin\Debug\net10.0\Spravce_kontaktu.pdb
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\Spravce_kontaktu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\Spravce_kontaktu.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\Spravce_kontaktu.AssemblyInfo.cs
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\Spravce_kontaktu.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\Spravce_kontaktu.dll
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\refint\Spravce_kontaktu.dll
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\Spravce_kontaktu.pdb
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\Spravce_kontaktu.genruntimeconfig.cache
+C:\Users\patri\Desktop\OONV_patterns\Spravce_kontaktu\obj\Debug\net10.0\ref\Spravce_kontaktu.dll

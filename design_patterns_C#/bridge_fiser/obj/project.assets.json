@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Desktop\\OONV_patterns\\bridge_fiser\\flyweight_fiser.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\bridge_fiser\\flyweight_fiser.csproj",
       "projectName": "flyweight_fiser",
-      "projectPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\bridge_fiser\\flyweight_fiser.csproj",
+      "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\bridge_fiser\\flyweight_fiser.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\OONV_patterns\\bridge_fiser\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\Design_Patterns_C#\\bridge_fiser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
