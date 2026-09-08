@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+
+#view_count{
+    font-size: larger;
+    font-weight: bolder;
+    color:rgb(165, 55, 55);
+}

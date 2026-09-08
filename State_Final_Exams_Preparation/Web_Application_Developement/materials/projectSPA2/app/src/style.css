@@ -1,0 +1,43 @@
+:root {
+  font-family: system-ui, sans-serif;
+  --p: 0.2rem; /* default padding */
+  --m: 0.2rem; /* default margin */
+  --r: 0.4rem; /* default border-radius */
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+
+  > main {
+    flex: 1;
+    display: flex;
+    place-items: center;
+    place-content: center;
+  }
+
+  > nav {
+    display: flex;
+    flex-direction: row;
+
+    > div {
+      flex: 1;
+      text-align: center;
+      background: lightblue;
+      margin: var(--m);
+      padding: var(--p);
+      border-radius: var(--r);
+    }
+  }
+}
+
+.ptr {
+  cursor: pointer;
+}
+
+.ptr:hover {
+  filter: brightness(1.1);
+}

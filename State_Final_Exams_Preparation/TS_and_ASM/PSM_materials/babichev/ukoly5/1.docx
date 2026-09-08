@@ -1,0 +1,63 @@
+**Analýza Bayesovské sítě pro nový příklad**
+
+### Zadání:
+Představme si herní soutěž, ve které jsou tři skříňky, jedna z nich obsahuje poklad. Soutěžící si nejprve vybere jednu skříňku. Moderátor následně otevře jednu prázdnou skříňku z nevybraných a zeptá se soutěžícího, zda chce svou volbu změnit.
+
+### Pravděpodobnosti:
+Nechť proměnné znamenají:
+- `Guest` - Skříňka, kterou si soutěžící původně vybral.
+- `Treasure` - Skříňka, ve které je poklad.
+- `Host` - Skříňka, kterou moderátor odhalil jako prázdnou.
+
+Nastavme následující pravděpodobnosti:
+- `P(Guest = i) = 1/3` pro `i = 0,1,2`
+- `P(Treasure = i) = 1/3` pro `i = 0,1,2`
+- Podmíněné pravděpodobnosti `P(Host = h | Guest = g, Treasure = t)`, kde moderátor nikdy nevybere skříňku s pokladem ani soutěžícího volbu, pokud je jiná možnost.
+
+Tabulka pravděpodobnost:
+| Guest | Treasure | Host = 0 | Host = 1 | Host = 2 |
+|--------|----------|---------|---------|---------|
+| 0      | 0        | 0       | 0.5     | 0.5     |
+| 0      | 1        | 0       | 0       | 1       |
+| 0      | 2        | 0       | 1       | 0       |
+| 1      | 0        | 0       | 0       | 1       |
+| 1      | 1        | 0.5     | 0       | 0.5     |
+| 1      | 2        | 1       | 0       | 0       |
+| 2      | 0        | 0       | 1       | 0       |
+| 2      | 1        | 1       | 0       | 0       |
+| 2      | 2        | 0.5     | 0.5     | 0       |
+
+### Cíl:
+Vypočítat pravděpodobnost, že poklad je v určité skříňce za předpokladu:
+- Soutěžící si vybral skříňku `Guest = 0`.
+- Moderátor otevřel skříňku `Host = 2`.
+
+Použijeme Bayesův vzorec:
+P(Treasure = i | Guest = 0, Host = 2) = {P(Guest = 0) P(Treasure = i) P(Host = 2 | Guest = 0, Treasure = i)}/{P(Host = 2 | Guest = 0)}
+
+### Výpočet:
+- `P(Guest = 0) = 1/3`
+- `P(Treasure = i) = 1/3`
+- `P(Host = 2 | Guest = 0, Treasure = 0) = 0.5`
+- `P(Host = 2 | Guest = 0, Treasure = 1) = 1`
+- `P(Host = 2 | Guest = 0, Treasure = 2) = 0`
+
+**Čitatel pro jednotlivé varianty:**
+- `P0 = (1/3) * (1/3) * 0.5 = 1/18`
+- `P1 = (1/3) * (1/3) * 1 = 1/9`
+- `P2 = (1/3) * (1/3) * 0 = 0`
+
+**Normalizační konstanta:**
+Z = P0 + P1 + P2 = 1/18 + 1/9 = 1/6
+
+
+**Posteriorní pravděpodobnosti:**
+P(Treasure = 0 | Guest = 0, Host = 2) = {1/18}/{1/6} = 1/3
+
+P(Treasure = 1 | Guest = 0, Host = 2) = {1/9}/{1/6} = 2/3
+
+P(Treasure = 2 | Guest = 0, Host = 2) = 0
+
+### Závěr:
+Vyplatí se změnit volbu – pravděpodobnost výhry po změně je **2/3**.
+

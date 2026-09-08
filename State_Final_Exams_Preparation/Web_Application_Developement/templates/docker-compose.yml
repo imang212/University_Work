@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ./src:/var/www/html
+    depends_on:
+      - db
+  db:
+    image: mariadb:10.11
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: heslo
+      MYSQL_DATABASE: skladovy_system
+      MYSQL_USER: uzivatel
+      MYSQL_PASSWORD: heslo
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql # Automatické spuštění SQL skriptu při prvním startu:
+volumes:
+  db_data:

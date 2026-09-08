@@ -1,0 +1,86 @@
+@prefix vs: <http://example.org/videostream#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+vs: a owl:Ontology .
+
+############################################################
+#                     CLASSES
+############################################################
+
+vs:VideoStream a owl:Class .
+vs:FrameBuffer a owl:Class .
+
+vs:VideoStreamListener a owl:Class .
+vs:RTPSStream a owl:Class ;
+    rdfs:subClassOf vs:VideoStreamListener .
+
+vs:VideoStreamFormatterStrategy a owl:Class .
+vs:ResizeStrategy a owl:Class ;
+    rdfs:subClassOf vs:VideoStreamFormatterStrategy .
+vs:GrayScaleStrategy a owl:Class ;
+    rdfs:subClassOf vs:VideoStreamFormatterStrategy .
+
+vs:VideoProvider a owl:Class .
+vs:CameraVideoProvider a owl:Class ;
+    rdfs:subClassOf vs:VideoProvider .
+vs:FileVideoProvider a owl:Class ;
+    rdfs:subClassOf vs:VideoProvider .
+vs:YouTubeVideoProvider a owl:Class ;
+    rdfs:subClassOf vs:VideoProvider .
+vs:RemoteRaspberryPiCameraProvider a owl:Class ;
+    rdfs:subClassOf vs:VideoProvider .
+vs:OnboardRaspberryPiCameraProvider a owl:Class ;
+    rdfs:subClassOf vs:VideoProvider .
+vs:RTPSVideoProvider a owl:Class ;
+    rdfs:subClassOf vs:VideoProvider .
+
+############################################################
+#                OBJECT PROPERTIES
+############################################################
+
+vs:hasProvider a owl:ObjectProperty ;
+    rdfs:domain vs:VideoStream ;
+    rdfs:range vs:VideoProvider .
+
+vs:hasFrameBuffer a owl:ObjectProperty ;
+    rdfs:domain vs:VideoStream ;
+    rdfs:range vs:FrameBuffer .
+
+vs:hasListener a owl:ObjectProperty ;
+    rdfs:domain vs:VideoStream ;
+    rdfs:range vs:VideoStreamListener .
+
+vs:hasStrategy a owl:ObjectProperty ;
+    rdfs:domain vs:VideoStream ;
+    rdfs:range vs:VideoStreamFormatterStrategy .
+
+vs:chainsTo a owl:ObjectProperty ;
+    rdfs:domain vs:VideoStreamFormatterStrategy ;
+    rdfs:range vs:VideoStreamFormatterStrategy .
+
+vs:producesFrameFor a owl:ObjectProperty ;
+    rdfs:domain vs:VideoProvider ;
+    rdfs:range vs:VideoStream .
+
+############################################################
+#               DATATYPE PROPERTIES
+############################################################
+
+vs:capacity a owl:DatatypeProperty ;
+    rdfs:domain vs:FrameBuffer ;
+    rdfs:range xsd:int .
+
+vs:frameShape a owl:DatatypeProperty ;
+    rdfs:domain vs:FrameBuffer ;
+    rdfs:range xsd:string .
+
+vs:index a owl:DatatypeProperty ;
+    rdfs:domain vs:FrameBuffer ;
+    rdfs:range xsd:int .
+
+vs:full a owl:DatatypeProperty ;
+    rdfs:domain vs:FrameBuffer ;
+    rdfs:range xsd:boolean .

@@ -1,0 +1,15 @@
+C:\Users\Patrik\OneDrive\Plocha\NSQL\bin\Debug\net7.0\NSQL.exe
+C:\Users\Patrik\OneDrive\Plocha\NSQL\bin\Debug\net7.0\NSQL.deps.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\bin\Debug\net7.0\NSQL.runtimeconfig.json
+C:\Users\Patrik\OneDrive\Plocha\NSQL\bin\Debug\net7.0\NSQL.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\bin\Debug\net7.0\NSQL.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.csproj.AssemblyReference.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.AssemblyInfoInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.AssemblyInfo.cs
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\refint\NSQL.dll
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.pdb
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\NSQL.genruntimeconfig.cache
+C:\Users\Patrik\OneDrive\Plocha\NSQL\obj\Debug\net7.0\ref\NSQL.dll

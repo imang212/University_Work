@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Katalog>
+    <Kniha id="K01">
+        <Nazev>Návrhové vzory</Nazev>
+        <Autor>Gang of Four</Autor>
+        <RokVydani>1994</RokVydani>
+    </Kniha>
+    <Kniha id="K02">
+        <Nazev>Čistý kód</Nazev>
+        <Autor>Robert C. Martin</Autor>
+        <RokVydani>2008</RokVydani>
+    </Kniha>
+</Katalog>

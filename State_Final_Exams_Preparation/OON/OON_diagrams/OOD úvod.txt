@@ -1,0 +1,33 @@
+Systémové inženýrství (Kybernetika)
+- Systém
+	-prvky
+	-vztahy
+
+- Systémové myšlení
+	- dedukce - od obecného -> konkrétnímu
+	- indukce - od konkrétního -> obecnému
+
+- Systémové inženýrtvý
+	- analýza zpětné vazby
+	- strukturální analýza
+	- statická analýza
+	- dynamická analýza
+	- holistická analýza
+
+- Systémové metodologie
+	- tvrdé (rovnice, UML diagramy, BPMN diagram, OPM diagram)
+	- měkké (rich Picture, catwoe)
+
+každý systém lze vylepšit nebo sestavit optimální.
+Lidi hledají suboptimální řešení, protože máme omezené schopnosti.
+
+Proces systémového inženýrství:
+1. Formulace problému - V chaba je moc lidí s covidem
+2. Identifikovat systém v problému - Lidi, Covid, Hospoda
+3. Vytvoření/Kvantifikace modelu - Rich Picture, soustava ODR
+4. Verifikace modelu systému
+5. Modelové výpočty a experimenty
+6. Interpretace výsledků z experimentu
+7. Implementace závěrů z interpretace
+
+tinyurl.com/ki-pb-ood

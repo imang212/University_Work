@@ -1,0 +1,14 @@
+Mám si podle 2 různých person vytvořit UX desing
+1. Vytvořte 2 různé persony
+2. Vyberte si 1 případ použití
+3. Uděláte prvotní skicu
+4. Skicu pomocí iterace na use-journey map upravujte tak, aby byla persona spokojená a necítila pains
+5. Finální skicu překreslíte do wireframu
+
+pro UJM(Use journey map) použijte Miro
+pro wireframe (Excalidraw)
+
+1. Design Thinking
+2. UX proces
+3. UI vs UX
+4. Skica

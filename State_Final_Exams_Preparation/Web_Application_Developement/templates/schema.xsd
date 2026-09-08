@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <!-- hl. kořenový element -->
+  <xs:element name="Katalog">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Kniha" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nazev" type="xs:string"/>
+              <xs:element name="Autor" type="xs:string"/>
+              <xs:element name="RokVydani" type="xs:integer"/>
+            </xs:sequence>
+            <!-- atr. ID je u každé knihy povinný -->
+            <xs:attribute name="id" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

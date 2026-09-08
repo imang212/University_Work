@@ -1,0 +1,39 @@
+http://drive.google.com/drive/folders/1f0D0NqCkrUqNKdc9jZDM1FpeRWiIOlF-
+
+Úkol: naprogramovat si nějakou úlohu podle strojového učení
+primární knihovna Sklearns
+potom rapids.ai pro gpu
+
+DATA = (X|y)		X∈R^500*2		y^
+MODEL: f(x)=y^(y head)	y∈R^500-tNÁM
+(vnitřní stavy 		chci ^y≈y
+   w0,w1,w2) 
+
+Příznakový prostor
+xscarou∈x(řádek z X)
+xscarou=(y0,y1,y2,...,yn)
+X=(1scarou,x)∈R^500*3		matice co zacina 1 na zacatkus
+
+xscarou1 y1
+xscarou2 y2
+.	  .
+.	  .
+.	  .
+xscarou50 y50
+
+y≈w0+w1(vyska)+w2(vaha)
+   ---------|---------
+	    ^y
+y1=w0+w1x11+w2x12
+y2=w0+w1x21+w2x22	=>Xwscrou=yscarou=>X'Xwscarou=Xy
+…
+y500=w0+w1x5001+w2x5002
+
+A*xscarou=bscarou
+
+MNC: (L2)
+	suma500,i=1(^yi-yi)^2=||y^-y||2^2
+
+L2 norma: ||uscarou||2=sqrt(suma(i=1,i=1 ui^2))=swrt(uscarou uscarou)
+min ||y^-y||2^2
+w

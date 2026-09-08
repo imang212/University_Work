@@ -1,0 +1,45 @@
+version: '3'
+services:
+  flask_2:
+    build: .
+    container_name: flask_2
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./code:/code
+    depends_on:
+      - postgres
+      - mongodb_2
+      - redis
+  postgres:
+    image: postgres
+    restart: always
+    # set shared memory limit when using docker-compose
+    shm_size: 128mb
+    container_name: postgres_2
+    # or set shared memory limit when deploy via swarm stack
+    #volumes:
+    #  - type: tmpfs
+    #    target: /dev/shm
+    #    tmpfs:
+    #      size: 134217728 # 128*2^20 bytes = 128Mb
+    environment:
+      POSTGRES_USER: dbuser
+      POSTGRES_PASSWORD: dbpwd
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080      
+  mongodb_2:
+    image: mongo:latest
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    ports:
+      - 27017:27017
+  redis:
+    image: redislabs/redismod
+    container_name: redis_2
+    ports:
+      - "6379:6379"

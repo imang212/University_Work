@@ -1,0 +1,100 @@
+ZK: ústní (obhajoba) SP, nepoužívat kod z chatgpt
+https://physics.ujep.cz/~jskvor/SZZ/BcAPI/#SZZVP
+Seminární práce: 14 dní před ZK (např.: Využití jazykových modelů v …)
+kniha: Software Engineering Sommer Ville
+
+Poznámky Beránek
+1.1 Systémové inženýrství (funkčnost)
+1.2 SWE - kod, dokumentace, lidé (všechny aspekty vývoje softwaru)
+1.3 Model procesu vývoje SW 
+	4fáze: specifikace-> implementace -> validace -> evoluce
+	scrum process(obrázek) - 1.role, 2.artefakty, 3.pravidla (vytvoříme si z něho vlastní proces vývoje SW)
+1.4 modely řízené plánem (sekvenční) nebo qgilní (iterativní), agilemanifesto.com
+1.5 Procesní pradigma
+1.6 Vodopádový model (SDLC) (obrázek-watterfall model) vs V model (automotive SW testing model - obrázek)
+    Incrementální vs iterativní model (obrázek)
+    Broem Spiral model (obrázek)
+    Prototype model
+    RUP model
+1.4 Extreme programming (i obrázek)
+    pair programmng
+
+
+2. Požadavek (prokomunikovat s člověkem)
+	- funkční 
+	- mimofunkční - 
+2.1 inženýrství požadavků
+- Studie proveditelnosti - (F. report)(BA)
+- elicitace a analýza požadavků (iterační proces,IT A) - systémové modely
+- specifikace požadavků(IT A) - uživatelská dok., systémová dok.
+- validace (feasebility study)(úplnost, nekonfliktnost, duplicita, reálnost, měřitelnost)
+- prototypy - context diagram, use case diagram, wireframe
+* celý je to - dok. 
+
+2.2 Mimofunkční požadavky
+MFP - produkt -> zabezpečení
+	      -> dependabilita
+	      -> použitelnost
+	      -> efektivita -> výkon, paměť
+    - organizační -> operační požadavky
+		  -> vývojářské
+		  -> prostředí
+    - externí -> legislativní -> bezpečnost, účetnictví
+	      -> regulatorní
+	      -> etický
+
+- aby bylo měřitelné, vyzkoušet odolnost
+
+- software requirements specification template (A - uživatelská + B - systémová)
+	1. preface
+	2. úvod
+	3. glosář
+	4. FP(funkční požadavky)
+	5. diagramy
+	6. MFP(mimo FP)
+	7. evoluce
+	8. přílohy
+	9. index
+Specifikace požadavků
+	1. NL (natural language)
+	2. SNL (structural NL) (např. User story, user scenarios)
+	3. DJS(doménové jazyky pro specifikaci)(např. i*)
+	4. Diagramy (např. use case)
+	5. Matematika
+
+validace (feasebility study)(úplnost, nekonfliktnost, duplicita, reálnost, měřitelnost)
+SRS: 1 interview 2. dotazník 3. etnografie 4. focus group 5. konkurence 6. dokumenty
+
+Evoluce požadavků - prvotní chápání -> prvotní specifikace -> … -> upravené chápání -> změřené požadavky
+
+nastane problém! -> analýza problému -> vyhodnocení zdrojů -> (implementace změny -> úprava artefaktů)=trasovatelnost
+
+3. Systémové modelování
+klient -> analytik
+1. Vyjednávání requirements
+2. Dokončení sw arch.
+3. Vodítko pro prog.
+4. Vodítko pro testing
+5. Vodítko pro Evoluci
+6. Vodítko pro řízení
+object diagram uml
+
+typy modelů (perspektiva):
+1. Externí - context diagram
+2. Interakční - use case diagram, sequence diagram
+3. Strukturální - class diagram
+4. Behaviorální - diagram aktivit, stavový diagram, state machine diagram
+context diagram, rich Picture diagram, component diagram uml, use case diagram, sequence diagram, aktivity diagram, figma user flow, deployment diagram, object diagram
+uml diagram types(obrázek) - všechny diagramy s rozdělením
+objekt = zapouzdření dat a chování
+
+teorie modelování(Beránek)
+1) DDM (1970...) -> dataflow diagramy
+2) EDM(event driven modelling) -> stavové diagramy
+3) MDE(model driven engineering) -> 1.Model, 2. Kod -> MDA(model driven architecture) od OMG
+	-> vývojář -> grafické modely			->CIM,PIM,PSM
+
+
+Kapitola 2.2 sommer ville
+
+Refactoring, Reingeneering, Logistický systém

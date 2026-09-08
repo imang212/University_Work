@@ -1,0 +1,53 @@
+mkdir repository
+ls
+ll
+l .git/
+cd .git
+cat config
+git config user.name "Jmeno Prijmeni"
+cat config
+
+cat .gitconfig
+
+cd ..
+gedit .gitignore
+cd .git
+ll
+cat HEAD
+ll objects/
+cd ..
+echo x > a.txt
+
+ll .git/objects/12
+mc
+git show
+cat .git/refs/heads/master
+git ls
+
+echo y > a.txt
+git commit -am "c2"
+echo z >> a.txt
+git commit -am "c3"
+git ll
+git ls
+git show
+ll
+git status
+git commit -m "c4"
+git add a.txt
+git status
+echo b > b.txt
+git status
+git diff
+git log
+git show SHA
+git blame a.txt
+
+git commit -am "c6"
+
+git add a.txt
+git status
+git merge --continue
+git show
+git ls
+git ls b2

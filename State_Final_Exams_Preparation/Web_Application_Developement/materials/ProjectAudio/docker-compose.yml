@@ -1,0 +1,10 @@
+services:
+  node-vite:
+    container_name: node-vite
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - 5173:5173 # vite
+      - 8888:8888 # php
+    tty: true

@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "pnpm-*": true,
+    "package-lock.json": true,
+    ".editorconfig": true,
+    "node_modules": true,
+    "dist": false
+  }
+}

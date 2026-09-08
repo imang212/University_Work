@@ -1,0 +1,347 @@
+-- https://modeling-languages.com/ocl-tutorial/
+package VideoStreamingSystem
+
+context VideoStream -- class
+
+inv validBufferSize:
+    self._buffer_size > 0 and self._buffer_size <= 100
+
+inv validThreadFrequency:
+    self._thread_frequency >= 0.016 and self._thread_frequency <= 0.033
+
+inv hasProvider:
+    self._video_provider <> null
+
+inv buffersSameCapacity:
+    self._frame_buffer.capacity = self._formatted_buffer.capacity
+
+inv bufferMatchesSize:
+    self._frame_buffer.capacity = self._buffer_size
+
+inv uniqueListeners:
+    self._listeners->isUnique()
+
+inv strategyImpliesFormatting:
+    self._format_strategy = null implies 
+    self._formatted_buffer->size() = 0
+
+inv maxListeners:
+    self._listeners->size() <= 20
+
+def: totalFrames(): Integer =
+    self._frame_buffer->size() + self._formatted_buffer->size()
+
+def: isActive(): Boolean =
+    self._video_provider.is_active()
+
+def: avgFrameSize(): Real =
+    if self._frame_buffer->size() > 0 then
+        self._frame_buffer->collect(f | f.nbytes)->sum() / 
+        self._frame_buffer->size()
+    else
+        0.0
+    endif
+
+context VideoStream::update()
+
+pre providerActive:
+    self._video_provider.is_active()
+
+post bufferUpdated:
+    self._frame_buffer->size() >= self._frame_buffer@pre->size() or
+    self._formatted_buffer->size() >= self._formatted_buffer@pre->size()
+
+context VideoStream::add_listener(listener: VideoStreamListener)
+
+pre listenerNotNull:
+    listener <> null
+
+pre listenerNotExists:
+    not self._listeners->includes(listener)
+
+post listenerAdded:
+    self._listeners->includes(listener)
+
+post listenerCountIncreased:
+    self._listeners->size() = self._listeners@pre->size() + 1
+
+context VideoStream::remove_listener(listener: VideoStreamListener)
+
+pre listenerExists:
+    self._listeners->includes(listener)
+
+post listenerRemoved:
+    not self._listeners->includes(listener)
+
+post listenerCountDecreased:
+    self._listeners->size() = self._listeners@pre->size() - 1
+
+context VideoStream::release()
+
+post providerReleased:
+    not self._video_provider.is_active()
+
+post listenersCleared:
+    self._listeners->isEmpty()
+
+context FrameBuffer
+
+inv positiveCapacity:
+    self.capacity > 0
+
+inv validIndex:
+    self.index >= 0 and self.index < self.capacity
+
+inv fullFlagConsistent:
+    self.full = (self.buffer->size() = self.capacity)
+
+inv bufferNotOverflow:
+    self.buffer->size() <= self.capacity
+
+inv indexConsistency:
+    not self.full implies self.index = self.buffer->size()
+
+inv reasonableCapacity:
+    self.capacity <= 100
+
+def: fillPercentage(): Real =
+    (self.buffer->size() / self.capacity) * 100.0
+
+def: isEmpty(): Boolean =
+    self.buffer->size() = 0
+
+def: isFull(): Boolean =
+    self.full
+
+def: availableSpace(): Integer =
+    if self.full then
+        0
+    else
+        self.capacity - self.buffer->size()
+    endif
+
+context FrameBuffer::add_frame(frame: ndarray)
+
+pre frameNotNull:
+    frame <> null
+
+pre frameShapeMatch:
+    frame.shape = self.frame_shape
+
+pre frameDtypeMatch:
+    frame.dtype = self.frame_dtype
+
+post indexUpdated:
+    self.index = (self.index@pre + 1) mod self.capacity
+
+post sizeIncreased:
+    not self@pre.full and self.buffer->size() < self.capacity
+    implies self.buffer->size() = self.buffer@pre->size() + 1
+
+post fullFlagSet:
+    not self@pre.full and self.buffer->size() = self.capacity
+    implies self.full
+
+context FrameBuffer::get(i: Integer): ndarray
+
+pre validGetIndex:
+    if self.full then
+        i >= 0 and i < self.capacity
+    else
+        i >= 0 and i < self.buffer->size()
+    endif
+
+post frameReturned:
+    result <> null
+
+post frameShapeCorrect:
+    result.shape = self.frame_shape
+
+context VideoProvider
+
+inv activeImpliesData:
+    self.is_active() implies 
+    self.read().first = true and self.read().second <> null
+
+inv nameNotEmpty:
+    self.get_name() <> null and self.get_name().size() > 0
+
+context CameraVideoProvider
+
+inv validCameraId:
+    self.camera_id >= 0
+
+inv activeCapNotNull:
+    self.is_active() implies self.cap <> null
+
+inv reasonableCameraId:
+    self.camera_id <= 10
+
+context FileVideoProvider
+
+inv validFilepath:
+    self.filepath <> null and self.filepath.size() > 0
+
+inv activeImpliesFileExists:
+    self.is_active() implies self.fileExists(self.filepath)
+
+inv validVideoExtension:
+    self.filepath.endsWith('.mp4') or 
+    self.filepath.endsWith('.avi') or
+    self.filepath.endsWith('.mkv') or
+    self.filepath.endsWith('.mov')
+
+context RemoteRaspberryPiCameraProvider
+
+inv validIpFormat:
+    self.raspberry_ip.matches('^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$')
+
+inv validPort:
+    self.stream_port > 0 and self.stream_port <= 65535
+
+inv validResolution:
+    self.resolution.width >= 640 and 
+    self.resolution.width <= 4096 and
+    self.resolution.height >= 480 and 
+    self.resolution.height <= 2160
+
+inv validFramerate:
+    self.framerate >= 1 and self.framerate <= 120
+
+inv authenticationProvided:
+    (self.raspberry_password <> null and 
+     self.raspberry_password.size() > 0) or
+    (self.ssh_key_path <> null and 
+     self.ssh_key_path.size() > 0)
+
+inv validUser:
+    self.raspberry_user <> null and 
+    self.raspberry_user.size() > 0
+
+inv commonStreamPort:
+    self.stream_port = 8554 or 
+    self.stream_port = 5000 or
+    self.stream_port >= 49152
+
+context OnboardRaspberryPiCameraProvider
+
+inv validResolution:
+    self.resolution.width >= 640 and 
+    self.resolution.width <= 4096 and
+    self.resolution.height >= 480 and 
+    self.resolution.height <= 2160
+
+inv validFramerate:
+    self.framerate >= 1 and self.framerate <= 60
+
+inv picam2Initialized:
+    self.is_active() implies self.picam2 <> null
+
+context RTPSVideoProvider
+
+inv validRtpAddress:
+    self.rtp_address.startsWith('rtp://') or
+    self.rtp_address.startsWith('rtsp://')
+
+inv addressContainsPort:
+    self.rtp_address.matches('.*:\d+.*')
+
+context VideoStreamFormatterStrategy
+
+inv noCycles:
+    not self.allNext()->includes(self)
+
+inv maxChainLength:
+    self.chainLength() <= 10
+
+def: allNext(): Set(VideoStreamFormatterStrategy) =
+    if self.next = null then
+        Set{}
+    else
+        Set{self.next}->union(self.next.allNext())
+    endif
+
+def: chainLength(): Integer =
+    if self.next = null then
+        1
+    else
+        1 + self.next.chainLength()
+    endif
+
+context _ResizeStrategy
+
+inv validSize:
+    self.size.width > 0 and self.size.height > 0
+
+inv reasonableSize:
+    self.size.width <= 4096 and self.size.height <= 4096
+
+inv validInterpolation:
+    Set{0, 1, 2, 3, 4}->includes(self.interpolation)
+
+inv commonResolutions:
+    (self.size.width = 640 and self.size.height = 480) or
+    (self.size.width = 1280 and self.size.height = 720) or
+    (self.size.width = 1920 and self.size.height = 1080) or
+    true  -- Allow custom resolutions
+
+context _GrayScaleStrategy
+-- No additional constraints (inherits from base)
+
+context VideoStreamListener
+-- No constraints for abstract interface
+
+context RTPSStream
+
+inv validRtpAddress:
+    self.rtp_address.startsWith('rtp://') or
+    self.rtp_address.startsWith('rtsp://')
+
+inv streamAssigned:
+    self.stream <> null
+
+inv writerInitialized:
+    self.isActive() implies self.writer <> null
+
+inv validAddressFormat:
+    self.rtp_address.matches('.*://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+')
+
+-- GLOBAL CONSTRAINTS (Cross-class)
+context VideoStream
+inv uniqueProviders:
+    VideoStream.allInstances()->forAll(vs1, vs2 |
+        vs1 <> vs2 implies vs1._video_provider <> vs2._video_provider
+    )
+
+context VideoStream
+inv maxActiveStreams:
+    VideoStream.allInstances()
+        ->select(vs | vs._video_provider.is_active())
+        ->size() <= 10
+
+context FrameBuffer
+inv reasonableGlobalCapacity:
+    FrameBuffer.allInstances()
+        ->collect(capacity)
+        ->sum() <= 1000
+
+context VideoProvider
+inv activeProvidersUsed:
+    self.is_active() implies
+    VideoStream.allInstances()
+        ->exists(vs | vs._video_provider = self)
+
+-- QUERIES (for reference, not enforced)
+-- VideoStream.allInstances()->select(vs | vs.isActive())
+
+-- VideoStream.allInstances()->select(vs | vs._listeners->size() > 5)
+
+-- FrameBuffer.allInstances()->select(fb | fb.full)
+
+-- VideoProvider.allInstances()->select(vp | vp.oclIsTypeOf(CameraVideoProvider))
+
+-- VideoStream.allInstances()->collect(_listeners)->flatten()->size()
+
+-- FrameBuffer.allInstances()->collect(capacity)->sum() / FrameBuffer.allInstances()->size()
+
+endpackage

@@ -1,0 +1,75 @@
+:root {
+  font-family: system-ui, sans-serif;
+  --p: 0.2rem; /* default padding */
+  --m: 0.2rem; /* default margin */
+  --r: 0.4rem; /* default border-radius */
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+
+  > main {
+    position: relative;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    place-content: center;
+  }
+
+  > nav {
+    display: flex;
+    flex-direction: row;
+
+    > x-btn {
+      flex: 1;
+    }
+  }
+}
+
+x-btn {
+  text-align: center;
+  background: lightblue;
+  margin: var(--m);
+  padding: var(--p);
+  border-radius: var(--r);
+}
+
+f-row {
+  display: flex;
+  flex-direction: row;
+  place-items: center;
+  place-content: center;
+}
+
+f-col {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  place-content: center;
+}
+
+.ptr {
+  cursor: pointer;
+}
+
+.ptr:hover {
+  filter: brightness(1.1);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  color: red;
+}

@@ -1,0 +1,15 @@
+div.trace {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border: 1px solid #000;
+  background-color: antiquewhite;
+}
+
+div.dot {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: red;
+}

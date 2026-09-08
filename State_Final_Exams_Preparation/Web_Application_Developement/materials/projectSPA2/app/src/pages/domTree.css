@@ -1,0 +1,11 @@
+ol {
+  background: lightgreen;
+}
+
+li.active {
+  background: yellow;
+}
+
+ol.hidden {
+  display: none;
+}

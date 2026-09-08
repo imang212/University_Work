@@ -1,0 +1,14 @@
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/Studijni_System.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/Studijni_System.App.AssemblyInfoInputs.cache
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/Studijni_System.App.AssemblyInfo.cs
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/Studijni_System.App.csproj.CoreCompileInputs.cache
+/home/patrik/OONV_patterns/Studijni_System.App/bin/Debug/net10.0/Studijni_System.App
+/home/patrik/OONV_patterns/Studijni_System.App/bin/Debug/net10.0/Studijni_System.App.deps.json
+/home/patrik/OONV_patterns/Studijni_System.App/bin/Debug/net10.0/Studijni_System.App.runtimeconfig.json
+/home/patrik/OONV_patterns/Studijni_System.App/bin/Debug/net10.0/Studijni_System.App.dll
+/home/patrik/OONV_patterns/Studijni_System.App/bin/Debug/net10.0/Studijni_System.App.pdb
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/Studijni_System.App.dll
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/refint/Studijni_System.App.dll
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/Studijni_System.App.pdb
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/Studijni_System.App.genruntimeconfig.cache
+/home/patrik/OONV_patterns/Studijni_System.App/obj/Debug/net10.0/ref/Studijni_System.App.dll
