@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mediator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46fddce4cf732fb79b52a5e48963b38dd2c6ed8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+442a6c2bccb37eae732f87ba4cc100ee7b80cbd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("mediator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mediator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

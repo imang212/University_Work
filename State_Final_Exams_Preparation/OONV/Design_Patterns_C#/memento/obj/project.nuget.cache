@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/UxbAiMmYE8=",
+  "dgSpecHash": "2SsNoqPiK6c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\Desktop\\University_Work\\State_Final_Exams_Preparation\\OONV\\Design_Patterns_C#\\memento\\memento.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/patrik/University_Work/State_Final_Exams_Preparation/OONV/Design_Patterns_C#/memento/memento.csproj",
+  "expectedPackageFiles": [
+    "/home/patrik/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/home/patrik/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/home/patrik/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.30/microsoft.netcore.app.host.linux-x64.8.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

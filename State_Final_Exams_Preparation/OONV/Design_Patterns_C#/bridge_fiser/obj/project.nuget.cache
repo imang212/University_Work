@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YbGw97XEnoc=",
+  "dgSpecHash": "NCGvzCFBkzA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\Desktop\\University_Work\\State_Final_Exams_Preparation\\OONV\\Design_Patterns_C#\\bridge_fiser\\flyweight_fiser.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/patrik/University_Work/State_Final_Exams_Preparation/OONV/Design_Patterns_C#/bridge_fiser/flyweight_fiser.csproj",
+  "expectedPackageFiles": [
+    "/home/patrik/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/patrik/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/patrik/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

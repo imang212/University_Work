@@ -1532,38 +1532,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\patri\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/patrik/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Desktop\\University_Work\\State_Final_Exams_Preparation\\OONV\\Studijni_System\\Studijni_System.Tests\\Studijni_System.Tests.csproj",
+      "projectUniqueName": "/home/patrik/University_Work/State_Final_Exams_Preparation/OONV/Studijni_System/Studijni_System.Tests/Studijni_System.Tests.csproj",
       "projectName": "Studijni_System.Tests",
-      "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\State_Final_Exams_Preparation\\OONV\\Studijni_System\\Studijni_System.Tests\\Studijni_System.Tests.csproj",
-      "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\University_Work\\State_Final_Exams_Preparation\\OONV\\Studijni_System\\Studijni_System.Tests\\obj\\",
+      "projectPath": "/home/patrik/University_Work/State_Final_Exams_Preparation/OONV/Studijni_System/Studijni_System.Tests/Studijni_System.Tests.csproj",
+      "packagesPath": "/home/patrik/.nuget/packages/",
+      "outputPath": "/home/patrik/University_Work/State_Final_Exams_Preparation/OONV/Studijni_System/Studijni_System.Tests/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/patrik/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\patri\\Desktop\\University_Work\\State_Final_Exams_Preparation\\OONV\\Studijni_System\\Studijni_System.App\\Studijni_System.App.csproj": {
-              "projectPath": "C:\\Users\\patri\\Desktop\\University_Work\\State_Final_Exams_Preparation\\OONV\\Studijni_System\\Studijni_System.App\\Studijni_System.App.csproj"
+            "/home/patrik/University_Work/State_Final_Exams_Preparation/OONV/Studijni_System/Studijni_System.App/Studijni_System.App.csproj": {
+              "projectPath": "/home/patrik/University_Work/State_Final_Exams_Preparation/OONV/Studijni_System/Studijni_System.App/Studijni_System.App.csproj"
             }
           }
         }
@@ -1578,7 +1573,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -1621,7 +1616,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
